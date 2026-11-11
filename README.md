@@ -2,7 +2,7 @@
 
 ### Machine Learning Engineer | Computer Vision | Applied ML | Agentic AI
 
-I build practical AI systems that solve real-world engineering problems — from real-time computer vision and object detection to predictive machine learning and multi-agent AI architectures.
+I build practical AI systems that solve real-world engineering problems from real-time computer vision and object detection to predictive machine learning and multi-agent AI architectures.
 
 I'm a Computer Science graduate from **University of Engineering and Technology (UET), Lahore**, focused on developing, evaluating, optimizing, and integrating intelligent systems beyond experimentation.
 

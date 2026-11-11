@@ -17,13 +17,13 @@ I'm a Computer Science graduate from **University of Engineering and Technology 
 
 ### 🔬 Selected Work
 
-**1. SKYWATCH — Multi-Agent Emergency Response System**
+**1. SKYWATCH - Multi-Agent Emergency Response System**
 
 - Developed a seven-agent LangGraph-based system integrating computer vision with intelligent threat assessment and emergency response coordination.
 - Achieved **93.6% weapon-detection mAP** and **2.29-second responder dispatch latency** during project testing.
 - Combined YOLOv8-based detection, multi-agent orchestration, Firebase, Flask, and Flutter.
 
-**2. Computer Vision — Drone Detection**
+**2. Computer Vision - Drone Detection**
 
 - Developed a YOLO11-based drone detection model achieving **92.5% mAP@50**.
 - Achieved approximately **30 ms inference per frame on an NVIDIA T4 GPU**.
